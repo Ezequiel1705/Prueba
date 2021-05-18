@@ -1,0 +1,43 @@
+#body{
+    background-color: pink;
+}
+
+#Contenedor{
+    background-color:gray;
+    
+
+    
+}
+#Encabezado{
+    text-align: center;
+    background-color: white;
+    margin: 80px;
+    padding: 20px;
+    
+   
+}
+#Formulario{
+    background-color: gray;
+    text-align: center;
+    padding: 20px;
+    margin: 80px;
+    height: 800px;
+    
+   
+    
+}
+#pie{
+    text-align: center;
+    text-decoration: black;
+    font-family: sans-serif;
+
+}
+h1{
+    text-align: center;
+    padding: 10;
+    background-color: white;
+    margin: 80px;
+}
+
+
+
